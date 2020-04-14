@@ -25,8 +25,7 @@ this repository, instead of forking this repository and making a pull request**.
 
 **_DO NOT FORK THIS REPOSITORY_**
 
-Create a new repo or repos, depending on whether or not you're using the
-single-server or multi-server pattern. Complete the requirements below and post
+Create two new repos. Complete the requirements below and post
 an issue on this repository linking to the relevant repo(s) under your GitHub
 account. If you choose to make a single server repo, post one link; if you make
 separate front and back ends, submit both links to the repo.
