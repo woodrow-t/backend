@@ -19,7 +19,7 @@ app should have one and only one model!
 1.  Fulfill the listed requirements.
 1.  Post an issue on this repository with links to your repo(s).
 
-Unlike most labs, for this one you submit your work by **making a pull request**.
+Unlike most labs, for this one you submit your work by **making a pull request**. If a pull request has not been performed up until now then the instructor will walk the class through performing one at the completion of this readme.
 
 
 Create two new repos. Complete the requirements below and post
