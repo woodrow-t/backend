@@ -17,7 +17,7 @@ app should have one and only one model!
 
 1.  Fork and Clone this repo
 1.  Fulfill the listed requirements.
-1.  Post an issue on this repository with links to your repo(s).
+1.  Create a Pull request on this repository with links to your repo(s).
 
 Unlike most labs, for this one you will submit your work by **making a pull request**. If a pull request has not been performed up until now then the instructor will walk the class through performing one at the completion of this readme.
 
