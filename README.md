@@ -19,10 +19,10 @@ app should have one and only one model!
 1.  Fulfill the listed requirements.
 1.  Post an issue on this repository with links to your repo(s).
 
-Unlike most labs, for this one you submit your work by **making a pull request**. If a pull request has not been performed up until now then the instructor will walk the class through performing one at the completion of this readme.
+Unlike most labs, for this one you will submit your work by **making a pull request**. If a pull request has not been performed up until now then the instructor will walk the class through performing one at the completion of this readme.
 
 
-Use this repo to include both the frontend and backend servers. The frontend server should be placed in folder named **client** and the backend server should be created at the root of this repo. 
+Use this repo to include both the frontend and backend servers. The frontend server should be placed in a folder named **client** and the backend server should be created at the root of this repo. 
 
 ## Requirements
 
@@ -38,7 +38,7 @@ state and props. Use React Router to build out separate 'views' for creating,
 editing, updating and deleting instances of your model.
 
 Stick to just 1 model and keep it simple. The purpose of this lab is to practice
-working with Express and React. Your goal should be to have full CRUD on one
+working with Express and React. Your goal should be to have full CRUD functionality on one
 model with a React front-end and Express back-end.
 
 ## Bonus
@@ -53,7 +53,7 @@ Deploy your app. Use heroku for the backend and surge for the frontend.
 
 ## Pull Request Demo
 
-The instructor will perform a run through of making a Pull Request.  The requires that this repo be forked and cloned and at least one change be added - commited - pushed to your forked version of the repo. For this peform an `npm init` to create a package.json file which you will then add-commit-push to your forked repo. 
+The instructor will perform a run through of making a Pull Request.  This requires the repo to be forked and cloned and for at least one change be added - commited - pushed to your forked version of the repo. For this, peform an `npm init` to create a `package.json` file which you will then add-commit-push to your forked repo. 
 
 ```sh
 npm init
