@@ -10,20 +10,17 @@ app should have one and only one model!
 
 - Mongo, Mongoose, Express and Node
 - React, Components, State and Props
-- React Component Lifecycle Methods
+- React Component Lifecycle Methods (useEffect)
 - React Router
-- Single-server and Multi-server MERN apps
 
 ## Instructions
 
-1.  Create new repo(s).
+1.  Fork and Clone this repo
 1.  Fulfill the listed requirements.
 1.  Post an issue on this repository with links to your repo(s).
 
-Unlike most labs, for this one you submit your work by **posting an issue on
-this repository, instead of forking this repository and making a pull request**.
+Unlike most labs, for this one you submit your work by **making a pull request**.
 
-**_DO NOT FORK THIS REPOSITORY_**
 
 Create two new repos. Complete the requirements below and post
 an issue on this repository linking to the relevant repo(s) under your GitHub
