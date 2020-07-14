@@ -49,7 +49,7 @@ sub-document.
 
 ## Double Bonus
 
-Deploy your app. Use heroku for the backend and surge for the frontend. 
+Deploy your app. Use Heroku for the backend and Surge for the frontend. 
 
 ## Pull Request Demo
 
