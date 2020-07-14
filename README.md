@@ -53,5 +53,9 @@ Deploy your app. Use heroku for the backend and surge for the frontend.
 
 ## Pull Request Demo
 
-The instructor will perform a run through of making a Pull Request.  The requires that this repo be forked and cloned and at least one change be added - commited - pushed to your forked version of the repo. 
+The instructor will perform a run through of making a Pull Request.  The requires that this repo be forked and cloned and at least one change be added - commited - pushed to your forked version of the repo. For this peform an `npm init` to create a package.json file which you will then add-commit-push to your forked repo. 
+
+```sh
+npm init
+```
 
