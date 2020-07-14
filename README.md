@@ -51,3 +51,7 @@ sub-document.
 
 Deploy your app. Use heroku for the backend and surge for the frontend. 
 
+## Pull Request Demo
+
+The instructor will perform a run through of making a Pull Request.  The requires that this repo be forked and cloned and at least one change be added - commited - pushed to your forked version of the repo. 
+
