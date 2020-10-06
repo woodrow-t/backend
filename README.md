@@ -49,7 +49,8 @@ sub-document.
 
 ## Double Bonus
 
-Deploy your app. Use Heroku for the backend and Surge for the frontend. 
+Deploy your app. Use Heroku for the backend and Surge, Vercel or Netlify for the frontend. 
+VIDEO - 4 Ways to Deploy your Frontend: https://www.youtube.com/watch?v=HCDCrjQsEhg
 
 ## Pull Request Demo
 
