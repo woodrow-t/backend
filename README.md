@@ -3,8 +3,7 @@
 # MERN Lab
 
 Get ready to build your first MERN app! For this lab, your goal is to build a
-simple MERN app with Express on the back-end and React on the front-end. Your
-app should have one and only one model!
+MERN app with Express on the back-end and React on the front-end. 
 
 ## Prerequisites
 
@@ -22,8 +21,9 @@ app should have one and only one model!
 
 Unlike most labs, for this one you will submit your work by **making a pull request**. If a pull request has not been performed up until now then the instructor will walk the class through performing one at the completion of this readme.
 
+This repo should be used as the backed server. 
 
-Use this repo to include both the frontend and backend servers. The frontend server should be placed in a folder named **client** and the backend server should be created at the root of this repo. 
+Create another repo for the Frontend and add a link to that repo when you make the Pull request. 
 
 ## Requirements
 
