@@ -33,11 +33,14 @@ Here are the requirment:
 - Must contain related models (Owner/Fruits or Owner/Dogs)
 - React on the front end must include `React Router`
 - Node on the backend must be configured as a `RESTFull` API
+- Both servers much be deployed
 
 ### Backend
 Your app should have a back-end build with Express that persists data to a
 MongoDB database using Mongoose. Your Express app should return JSON data to
 your React front-end.
+
+Backend server must be deployed via Heroku.
 
 ### Frontend
 The front-end for your simple MERN app should be built with React. Instead of using `fetch` you will now use `axios` to
@@ -46,6 +49,8 @@ get data from your Express back-end.
 Use React Router to build out separate 'views' for creating, editing, updating and deleting instances of your model.
 
 Your goal should be to have full CRUD functionality on one model with a React front-end and Express back-end.
+
+Frontend server must be deployed via Netlify.
 
 ## Bonus
 
