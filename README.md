@@ -12,6 +12,7 @@ app should have one and only one model!
 - React, Components, State and Props
 - React Component Lifecycle Methods (useEffect)
 - React Router
+- A pull request will be used for submission of this assignment
 
 ## Instructions
 
@@ -26,37 +27,30 @@ Use this repo to include both the frontend and backend servers. The frontend ser
 
 ## Requirements
 
-Build a simple MERN app! Keep it very simple: only 1 model with full CRUD.
+Here are the requirment:
 
+- Build a simple MERN - Mongo-Express-React-Node App
+- Must contain related models (Owner/Fruits or Owner/Dogs)
+- React on the front end must include `React Router`
+- Node on the backend must be configured as a `RESTFull` API
+
+### Backend
 Your app should have a back-end build with Express that persists data to a
 MongoDB database using Mongoose. Your Express app should return JSON data to
 your React front-end.
 
-The front-end for your simple MERN app should be built with React. Use axios to
-get data from your Express back-end and pass the data through your app using
-state and props. Use React Router to build out separate 'views' for creating,
-editing, updating and deleting instances of your model.
+### Frontend
+The front-end for your simple MERN app should be built with React. Instead of using `fetch` you will now use `axios` to
+get data from your Express back-end.
 
-Stick to just 1 model and keep it simple. The purpose of this lab is to practice
-working with Express and React. Your goal should be to have full CRUD functionality on one
-model with a React front-end and Express back-end.
+Use React Router to build out separate 'views' for creating, editing, updating and deleting instances of your model.
+
+Your goal should be to have full CRUD functionality on one model with a React front-end and Express back-end.
 
 ## Bonus
 
-Add another model as a sub-document. Finish full CRUD on your first model before
-adding a subdocument. Make it so users can perform full CRUD on the
-sub-document.
-
-## Double Bonus
-
-Deploy your app. Use Heroku for the backend and Surge, Vercel or Netlify for the frontend. 
-VIDEO - 4 Ways to Deploy your Frontend: https://www.youtube.com/watch?v=HCDCrjQsEhg
-
-## Pull Request Demo
-
-The instructor will perform a run through of making a Pull Request.  This requires the repo to be forked and cloned and for at least one change be added - commited - pushed to your forked version of the repo. For this, peform an `npm init` to create a `package.json` file which you will then add-commit-push to your forked repo. 
-
-```sh
-npm init
-```
+- Style it and make Kenny proud!!!
+- Add `useContext` to create a global state
+- Add a third model as a sub-document. Finish full CRUD on your first two models before
+adding any additional subdocuments. 
 
