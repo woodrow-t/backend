@@ -42,6 +42,8 @@ your React front-end.
 
 Backend server must be deployed via Heroku.
 
+Backend must be configued for CORS.
+
 ### Frontend
 The front-end for your simple MERN app should be built with React. Instead of using `fetch` you will now use `axios` to
 get data from your Express back-end.
